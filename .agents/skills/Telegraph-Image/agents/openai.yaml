@@ -1,0 +1,6 @@
+interface:
+  display_name: "Telegraph Image"
+  short_description: "Repo-specific patterns and workflows for Telegraph-Image"
+  default_prompt: "Use the Telegraph-Image repo skill to follow existing architecture, testing, and workflow conventions."
+policy:
+  allow_implicit_invocation: true
